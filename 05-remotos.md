@@ -4,6 +4,12 @@
 $ git remote add origin 'nnnn.git'
 $ git remote add gitalb 'xxxx.git'
 
+## Borrar remoto
+Si grabamos mal un remoto o redefinimos un remoto podemos borrarlo (posteriormente volveriamos
+a definirlo).
+```
+$ git remote rm nombreremoto
+```
 
 ## Gestión de repositorios remotos
 
