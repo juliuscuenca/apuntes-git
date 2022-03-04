@@ -1,5 +1,10 @@
 # Remotos
 
+## Añadir remoto
+$ git remote add origin 'nnnn.git'
+$ git remote add gitalb 'xxxx.git'
+
+
 ## Gestión de repositorios remotos
 
 Ya hemos comentado en anteriores capítulos que podemos enlazar a nuestro repositorio git cualquier proyecto git remoto o local.
