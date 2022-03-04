@@ -67,7 +67,7 @@ $ git commit --amend
 
 ## push
 
-### Empujando nuestors cambios a otro repositorio
+### Empujando nuestors cambios a otro repositorio (remoto)
 
 Hasta ahora con el commit hemos grabado nuestros cambios en nuestro repositorio en local, vamos ahora a empujar nuestros cambios hacia cualquier repositorio que tengamos enlazado.
 Para enlazarlo
@@ -82,6 +82,3 @@ git push origin dev
     
 En este ejemplo origin es el repositorio origen que tengamos enlazado, en el caso de haber enlazado nuestro repositorio local con un git clone, origin es el repositorio de donde hemos clonado nuestra copia en local. Como vemos, podemos seleccionar la rama del repositorio a la que empujar nuestros cambios, en el ejemplo dev, nuestra rama de desarrollo.
 
-
-
-  
