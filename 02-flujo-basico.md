@@ -55,6 +55,7 @@ $ git commit -m "describe de una manera sencilla tus cambios"
 
 $ git commit -am 'Mensaje del commit'
 Es un atajo de git add y git commit
+git commit -a -m es otra version del atajo anterior
 
 #### Reescribir un commit mal escrito
 
